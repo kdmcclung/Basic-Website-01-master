@@ -1,4 +1,21 @@
+/* layout*/
+.container_12 {
+	background: url("../img/woodgrain.png");
+	
+#aside {
+	background: orange
+}
+#aside2 {
+	background: orange
+}
+
+#main {background: yellow;
+}
+
+
+
 /* Main Navigation */
+
 
 li {
   background: #ffd500;
